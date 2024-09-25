@@ -1,0 +1,15 @@
+Reasons for building a PC 
+
+1. Customization
+When building your own computer, you have complete control over the components, from the CPU and GPU to the storage and case design. 
+This allows you to tailor the system specifically for your needs, whether for gaming, graphic design, programming, or general use. Custom builds also provide flexibility in selecting components that 
+align with your budget and future upgrade plans.
+
+2. Cost Efficiency
+Pre-built computers often come with extra costs associated with branding and labor. Building your own system allows you to choose components that offer the best price-to-performance ratio, 
+often resulting in a more powerful machine for less money. Additionally, you can decide where to allocate more budget, such as focusing on a high-performance GPU or saving on less crucial parts like the case.
+
+3. Enhanced Learning Experience
+The process of assembling a computer offers hands-on experience with hardware, which is invaluable for anyone interested in technology. 
+It helps users understand how different components work together, including how to troubleshoot problems, manage cooling solutions, and optimize performance. 
+This knowledge can be especially beneficial for students studying computer science or IT fields.
