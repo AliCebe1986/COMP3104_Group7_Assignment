@@ -1,0 +1,10 @@
+Tennis - Main Rules:
+1. The game is played either as singles (1 vs. 1) or doubles (2 vs. 2).
+2. The objective is to hit the ball over the net into the opponent's side of the court.
+3. A point starts with a serve, alternating between players.
+4. Scoring goes: 15, 30, 40, and then game point.
+   - If both players reach 40, it’s called a "deuce." A player must win two consecutive points to win the game.
+5. A set is won by the first player to win 6 games with at least a 2-game margin. If the set reaches 6-6, a tiebreaker is played.
+6. A match is usually best of 3 or best of 5 sets.
+7. The ball must land within the designated court areas for a point to count.
+8. If the ball hits the net but lands in the correct area during a serve, it's called a "let" and the serve is retaken.

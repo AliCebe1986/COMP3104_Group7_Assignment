@@ -1,0 +1,9 @@
+Football (Soccer) - Main Rules:
+1. A match is played between two teams of 11 players each.
+2. The game lasts for 90 minutes, split into two 45-minute halves.
+3. A goal is scored when the ball crosses the goal line between the goalposts.
+4. Players can use any part of their body except their hands and arms to move the ball (goalkeeper can use hands within the penalty area).
+5. Offside rule: A player is offside if they are nearer to the opponent's goal line than both the ball and the second-last defender when the ball is passed to them.
+6. Fouls include tripping, pushing, handball, and dangerous play, leading to free kicks or penalties.
+7. A penalty kick is awarded for fouls inside the penalty area.
+8. Yellow and red cards are given for misconduct. Two yellow cards result in a red card, and a red card leads to a player's ejection.
