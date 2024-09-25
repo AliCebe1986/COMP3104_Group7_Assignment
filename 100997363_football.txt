@@ -9,3 +9,4 @@ Football (Soccer) - Main Rules:
 8. Yellow and red cards are given for misconduct. Two yellow cards result in a red card, and a red card leads to a player's ejection.
 Football (Soccer) - Additional Rules:
 Throw-ins: When the ball goes out of bounds on the sidelines, the opposing team must throw the ball back in using both hands while keeping both feet on the ground.
+Corner kicks: When the ball goes over the goal line but not into the goal, and is last touched by a defending player, the attacking team gets a corner kick from the corner of the field.
