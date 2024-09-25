@@ -9,3 +9,6 @@ Basketball - Main Rules:
 7. After 5 team fouls in a quarter, the opponent gets free throws.
 8. The game is played in four quarters, each lasting 12 minutes (NBA) or 10 minutes (FIBA).
 9. The team with the most points at the end of the game wins.
+
+Basketball - Additional Rules:
+10. Shot clock rule: A team has 24 seconds (NBA) or 14 seconds (after an offensive rebound) to attempt a shot that hits the rim.
