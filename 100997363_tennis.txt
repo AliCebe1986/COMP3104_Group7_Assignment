@@ -8,6 +8,7 @@ Tennis - Main Rules:
 6. A match is usually best of 3 or best of 5 sets.
 7. The ball must land within the designated court areas for a point to count.
 8. If the ball hits the net but lands in the correct area during a serve, it's called a "let" and the serve is retaken.
+
 Tennis - Additional Rules:
-Double fault: If a player fails to make a legal serve in two consecutive attempts, they lose the point
-Foot fault: A player must keep both feet behind the baseline when serving. If they step on or over the line during a serve, it's considered a foot fault.
+9. Double fault: If a player fails to make a legal serve in two consecutive attempts, they lose the point
+10. Foot fault: A player must keep both feet behind the baseline when serving. If they step on or over the line during a serve, it's considered a foot fault.
