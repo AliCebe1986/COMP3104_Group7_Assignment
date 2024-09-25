@@ -13,3 +13,8 @@ often resulting in a more powerful machine for less money. Additionally, you can
 The process of assembling a computer offers hands-on experience with hardware, which is invaluable for anyone interested in technology. 
 It helps users understand how different components work together, including how to troubleshoot problems, manage cooling solutions, and optimize performance. 
 This knowledge can be especially beneficial for students studying computer science or IT fields.
+
+4. Better Performance
+Building your own computer allows you to choose high-performance parts that meet your specific needs. 
+For tasks like gaming, video editing, or running demanding applications, this can result in a faster, more efficient machine compared to many pre-built options. 
+Overclocking is also easier with custom builds, providing even more performance tuning options.
