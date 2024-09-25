@@ -12,4 +12,4 @@ Basketball - Main Rules:
 
 Basketball - Additional Rules:
 10. Shot clock rule: A team has 24 seconds (NBA) or 14 seconds (after an offensive rebound) to attempt a shot that hits the rim.
-Backcourt violation: Once the ball crosses into the offensive half of the court, it cannot go back into the defensive half unless touched by the oppone
+11. Backcourt violation: Once the ball crosses into the offensive half of the court, it cannot go back into the defensive half unless touched by the oppone
