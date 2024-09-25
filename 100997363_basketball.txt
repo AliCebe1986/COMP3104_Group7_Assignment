@@ -1,0 +1,15 @@
+Basketball - Main Rules:
+1. A team consists of 5 players.
+2. The game starts with a jump ball at the center of the court.
+3. Points are scored by throwing the ball into the opponent's basket.
+   - 2 points for a regular shot, 3 points for a shot behind the 3-point line, 1 point for a free throw.
+4. The ball can be moved by passing or dribbling (bouncing the ball while moving).
+5. A player cannot take more than two steps without dribbling the ball.
+6. Personal fouls: Contact with an opponent is restricted (e.g., pushing, tripping).
+7. After 5 team fouls in a quarter, the opponent gets free throws.
+8. The game is played in four quarters, each lasting 12 minutes (NBA) or 10 minutes (FIBA).
+9. The team with the most points at the end of the game wins.
+
+Basketball - Additional Rules:
+10. Shot clock rule: A team has 24 seconds (NBA) or 14 seconds (after an offensive rebound) to attempt a shot that hits the rim.
+11. Backcourt violation: Once the ball crosses into the offensive half of the court, it cannot go back into the defensive half unless touched by the oppone
