@@ -1,1 +1,1 @@
-# Updated email validation for registration process to include domain verification
+# Added password strength check: Minimum 8 characters, 1 uppercase, 1 number
