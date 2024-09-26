@@ -1,1 +1,6 @@
 # Categorized menu items into starters, main courses, and desserts
+
+1. Restaurants can add items to their menu, including name, description, and price.
+2. Each item can have optional attributes like gluten-free, vegan, etc.
+3. Restaurants can also update or remove items from their menu.
+4. Menu changes are updated in real-time for users browsing the app.

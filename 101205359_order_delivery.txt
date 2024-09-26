@@ -1,1 +1,6 @@
 # Added user feedback option after order delivery completion
+1. The user places an order from the restaurant.
+2. The system assigns a delivery driver automatically.
+3. The driver gets notified of the pickup and delivery location.
+4. The customer can track the delivery driver in real-time on a map.
+5. Once delivered, the user is notified, and the order is marked as complete.

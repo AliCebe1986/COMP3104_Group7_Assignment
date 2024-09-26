@@ -1,1 +1,6 @@
 # Updated user login process to include 2-factor authentication
+1. The user inputs their name, email, and password.
+2. The system checks if the email is already registered.
+3. If not, the system stores the user information in the database.
+4. An email verification link is sent to the user's email.
+5. After verification, the user can log in to the system.
