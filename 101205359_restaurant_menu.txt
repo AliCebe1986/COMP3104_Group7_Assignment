@@ -1,3 +1,1 @@
-# Restaurant Menu Management
-
-1. Restaurants can add items to their menu...
+# Added bold formatting for menu item names in restaurant menu
