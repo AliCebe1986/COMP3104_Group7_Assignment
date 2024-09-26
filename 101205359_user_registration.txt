@@ -1,0 +1,3 @@
+# User Registration Process
+
+1. The user inputs their name, email, and password...
