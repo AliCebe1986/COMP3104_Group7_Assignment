@@ -1,1 +1,1 @@
-# Added password strength check: Minimum 8 characters, 1 uppercase, 1 number
+# Updated user login process to include 2-factor authentication
