@@ -1,1 +1,1 @@
-# Added bold formatting for menu item names in restaurant menu
+# Updated restaurant menu to include gluten-free and vegan options
