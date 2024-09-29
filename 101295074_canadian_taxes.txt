@@ -10,3 +10,11 @@ income taxes. The combined rates can vary significantly depending on the provinc
   -) Standard Rate: The GST is a value-added tax levied by the federal government at a standard rate of 5% on most goods and services.
   -) Harmonized Sales Tax (HST): Some provinces combine their provincial sales tax with the GST to create the HST, 
 which can range from 13% to 15% depending on the province.
+
+#Canada Pension Plan (CPP) Contributions:
+  -) Mandatory Contributions: Employees and employers must contribute to the CPP, which provides retirement, disability,
+and survivor benefits. The contribution rate for 2023 is 5.95% for employees and employers, and 11.9% for self-employed individuals.
+
+#Property Tax:
+  -) Municipal Tax: Property taxes are levied by municipalities and are based on the assessed value of the property.
+These taxes fund local services such as schools, infrastructure, and public safety.
