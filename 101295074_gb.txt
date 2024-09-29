@@ -1,0 +1,10 @@
+	George Brown College (GBC) is a well-regarded public college of applied arts
+and technology located in downtown Toronto, Ontario. Established in 1967,
+it offers a wide range of programs and has a strong focus on practical, 
+hands-on learning. There are some programs that GBC offers;
+	Programs: GBC offers over 170 full-time programs, including diplomas,
+advanced diplomas, degrees, and postgraduate certificates. Fields of study
+include arts, design, business, community services, early childhood education,
+construction and engineering technologies, health sciences, hospitality and
+culinary arts, and preparatory studies1.
+
