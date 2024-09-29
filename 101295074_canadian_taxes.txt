@@ -1,0 +1,12 @@
+  There are some Canadian taxes that i'd like to address it;
+
+#Income Tax:
+ -) Progressive Tax System: Canada uses a progressive tax system where the tax rate increases as income increases.
+This means higher-income individuals pay a higher percentage of their income in taxes.
+ -) Federal and Provincial Rates: Both the federal government and provincial/territorial governments levy 
+income taxes. The combined rates can vary significantly depending on the province or territory.
+
+#Goods and Services Tax (GST):
+  -) Standard Rate: The GST is a value-added tax levied by the federal government at a standard rate of 5% on most goods and services.
+  -) Harmonized Sales Tax (HST): Some provinces combine their provincial sales tax with the GST to create the HST, 
+which can range from 13% to 15% depending on the province.
