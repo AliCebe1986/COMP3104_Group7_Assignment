@@ -1,0 +1,4 @@
+	The COMP 3104 DevOps course at George Brown College is part of the 
+Computer Programming and Analysis program (T177). This course focuses on 
+the principles and practices of DevOps, which is a set of practices that
+combines software development (Dev) and IT operations (Ops).
