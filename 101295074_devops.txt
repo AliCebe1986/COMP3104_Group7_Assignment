@@ -1,0 +1,14 @@
+	The COMP 3104 DevOps course at George Brown College is part of the 
+Computer Programming and Analysis program (T177). This course focuses on 
+the principles and practices of DevOps, which is a set of practices that
+combines software development (Dev) and IT operations (Ops). Some of the
+topics that Devops cover;
+
+	Continuous Integration and Continuous Deployment (CI/CD): Learn how to 
+automate the software release process.
+	Infrastructure as Code (IaC): Understand how to manage and provision
+computing infrastructure using machine-readable definition files.
+	Monitoring and Logging: Gain skills in monitoring applications and
+infrastructure to ensure reliability and performance.
+	Collaboration and Communication: Emphasize the importance of collaboration
+between development and operations teams to improve workflow and productivity
